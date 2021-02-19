@@ -1,3 +1,5 @@
+Edit: Actually realized I deleted Dockerfile so I'll skip this assignment
+
 `$ git clone https://github.com/docker-hy/spring-example-project`
 Run these in folder with Dockerfile
 `$ sudo docker build -t spring .`
